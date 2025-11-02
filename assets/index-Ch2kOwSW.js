@@ -27333,7 +27333,7 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
                       variant: "outline",
                       className:
                         "text-base sm:text-lg h-12 sm:h-14 px-6 sm:px-8 w-full sm:w-auto",
-                      onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x222975f9e24ebcedc7ba38956ef86a3989224444", "_blank"),
+                      onClick: () => window.open("https://www.dextools.io/app/en/bnb/pair-explorer/0x222975f9e24ebcedc7ba38956ef86a3989224444", "_blank"),
                       disabled: !t,
                       children: "Chart",
                     }),
